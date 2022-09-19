@@ -1,2 +1,2 @@
-# HAC
- Repo for Hardware Accelerated Computing
+# HAC: Hardware Accelerated Computing
+## Course by Vincent Claes (cteq.eu)
